@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="../Styles/footerStyle.css">
 <footer>
     <div class="centered"> 
       <div class="footer-logo">
