@@ -1,0 +1,56 @@
+body{
+    font-family: math;
+    background-color:lemonchiffon;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    color: teal;
+    display: flex;
+    justify-content: center;
+}
+div.mainContainer{
+    max-width: 400px;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    background-color: lavender;
+    padding: 18px;
+    border-radius: 15px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+
+}
+div.formContainer{
+    background-color:bisque ;
+    padding: 30px;
+    display: flex;
+    border-radius: 18px;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 300px;
+    
+}
+.formContainer form{
+    display: flex;
+    flex-direction: column;
+}
+div.signUp{
+    margin-left: 37px;
+}
+div.contact{
+    margin-left: 37px;
+}
+
+a{
+    text-decoration: none;
+}
+div.container{
+    background-color: honeydew;
+    padding: 58px;
+    width: auto;
+    height: auto;
+    border-radius: 25px;
+}
