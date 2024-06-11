@@ -7,9 +7,7 @@
     <link rel="stylesheet" href="../Styles/logInStyles.css">
 </head>
 <body>
-    <?php
-        require_once("header.php")
-    ?>
+
 
     <div class="mainContainer">
         <div class="title">

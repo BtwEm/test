@@ -5,33 +5,7 @@
         require_once("header.php")
     ?>
 
-    <!--<header class="header" id="header">
-        <div class="header">
-            <a href="#" class="logo">
-                    <img src="../Images/TerminaLogoBetter.png" alt="">
-                    <p>Termina <strong>Porsche</strong></p>
-            </a>
-            <span class="mobileHamburger">
-              <span class="icon" id="bars"><i class="fa fa-bars"></i></span>
-            </span>
-              
-            <div class="icons" id="icons">
-                <span class="icon"><i class="fa fa-user"></i></span>
-                <span class="icon"><i class="fa fa-phone"></i>
-                    <p>+46 70 689 60 50</p>
-                </span>
-            </div>
-        </div>
-        <div class="navigation" id="navigation">
-            <a href="#" class="link">provider</a>
-            <a href="#" class="link">legal notice</a>
-            <a href="#" class="link">privacy</a>
-            <a href="#" class="link">contact</a>
-            <span class="mobileHamburger">
-              <span class="icon" id="close"><i class="fa fa-close"></i></span>
-            </span>
-        </div>
-    </header>-->
+
 
         <section class="sectionHome" id="home">
           <div class="videoContainer">

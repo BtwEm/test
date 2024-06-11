@@ -30,12 +30,12 @@
         <div class="navigation" id="navigation">
             <a href="#" class="link">provider</a>
             <a href="#" class="link">legal notice</a>
-            <a href="#" class="link">privacy</a>
-            <a href="#" class="link">contact</a>
+            <a href="contactForm.php" class="link">Contact us</a>
+            <a href="logInForm.php" class="link">Log in</a>
             <span class="mobileHamburger">
               <span class="icon" id="close"><i class="fa fa-close"></i></span>
             </span>
         </div>
     </header>
 
-<script src="../Js/header.js"></script>
+<script src="../Scripts/header.js"></script>

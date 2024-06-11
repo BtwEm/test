@@ -4,12 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Question us!</title>
-    <link rel="stylesheet" href="../Styles/contactFormStyle.css">
+    <link rel="stylesheet" href="../Styles/contactStyle.css">
 </head>
 <body>
-    <?php
-        require_once("header.php")
-    ?>
+   
     <div class="formContainer footer-contact">
         <h2>Kontakta oss</h2> 
         <form action="">
